@@ -14,8 +14,7 @@ header {
   color: #222;
 }
 blockquote:hover {
- width: 1000px;
- height: 600px;
+ box-sizing: content-box;
  margin: auto;
 }
 blockquote {
