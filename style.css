@@ -14,7 +14,7 @@ header {
   color: #222;
 }
 blockquote:hover {
- box-sizing: content-box;
+ box-sizing: 150%;
  margin: auto;
 }
 blockquote {
