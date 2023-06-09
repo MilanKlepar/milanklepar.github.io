@@ -25,9 +25,9 @@ blockquote {
   font-size: 35px;
   color: white;
   display: flex;
-  /* justify-content: ; */
-    /* align-items: center; */
-  /* margin-left: 0px; */
+  justify-content: center;
+  align-items: center;
+  margin-left: 0px;
   /*   padding-top: 15px; */
 }
 
