@@ -13,6 +13,10 @@ header {
   align-items: flex-end;
   color: #222;
 }
+blockquote:hover {
+ max-width: 110%;
+ max-height: 110%;
+}
 blockquote {
   width: 100%;
   height: 100%;
