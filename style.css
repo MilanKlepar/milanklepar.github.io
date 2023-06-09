@@ -13,10 +13,10 @@ header {
   align-items: flex-end;
   color: #222;
 }
-blockquote:hover {
+/* blockquote:hover {
  box-sizing: 150%;
  margin: auto;
-}
+} */
 blockquote {
   width: 100%;
   height: 100%;
